@@ -3,7 +3,7 @@
 // Basic Math
 console.log(1 + 2 * 3);
 console.log((1 + 2) * 3);
-console.log(40 / 5 - 2 ** 3 );
+console.log(40 / 5 - 2 ** 3);
 console.log(6 % 2);
 
 // Adding/Concatenating Strings
